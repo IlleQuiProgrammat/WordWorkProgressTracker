@@ -21,4 +21,3 @@ Missing:
    _yet_
  - Small documents - this currently does not save in a diff format and makes slightly larger word documents
  
- I can probably add the webserver, login and diff system if there is any want.. please indicate with a sponsor :wink:
